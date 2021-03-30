@@ -1288,7 +1288,7 @@ msgstr "Логи Менеджера резервного копирования"
 #: ../src/ClientModeBox.py:120 ../src/ClientModeBox.py:478
 #: ../src/ClientModeBox.py:893 ../src/plugin.py:211
 msgid "Vision Client Mode Box"
-msgstr ""
+msgstr "Окно режима клиента"
 
 #: ../src/ui.py:46 ../src/plugin.py:93 ../src/plugin.py:193
 msgid "Vision Core"
